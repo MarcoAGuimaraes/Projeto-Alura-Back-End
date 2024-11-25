@@ -1,4 +1,7 @@
-import 'dontenv/config';
+//import 'dontenv/config';
+import dotenv from "dotenv"; // Carregar variáveis de ambiente
+dotenv.config(); // Configura o dotenv
+
 import { ObjectId } from "mongodb"
 import conectarAoBanco from "../config/dbConfig.js"
 
