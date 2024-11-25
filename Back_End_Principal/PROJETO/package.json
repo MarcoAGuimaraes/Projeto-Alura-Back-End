@@ -1,7 +1,7 @@
 {
-  "name": "Nome que coloquei",
+  "name": "",
   "version": "1.0.0",
-  "description": "uma breve descricao minha",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "license": "AGPL-version-3.0",
@@ -13,7 +13,7 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": "localhost"
+    "url": ""
   },
   "bugs": "",
   "keywords": [],
